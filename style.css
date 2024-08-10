@@ -1,0 +1,37 @@
+#fr1{
+    text-align: center;
+    width: 400px;
+    border: 2px solid black;
+    margin-left: 350px;
+    padding: 20px;
+    background-color: red
+}
+#result{
+    color: rgb(150, 239, 8);
+    font-weight: 800;
+    font-size: x-large;
+}
+h1{
+    font-size: xx-large;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    color: chartreuse;
+}
+#textbox{
+    text-align: center;
+    padding: 5px;
+    color: black;
+    border: 2px solid black;
+    background-color: rgb(233, 172, 91);
+
+}
+#toFarenhite{
+    
+    
+}
+button{
+    color:red;
+    padding: 5px;
+    margin-top: 2px;
+    width: 80px;
+}
